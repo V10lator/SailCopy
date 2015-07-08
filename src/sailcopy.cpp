@@ -1,6 +1,6 @@
 // pbcopy -- alfonso martone
 
-#include "pbcopy.h"
+#include "sailcopy.h"
 
 int main(int argc, char* argv[])
 {

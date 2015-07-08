@@ -1,5 +1,5 @@
-#ifndef PBCOPY_H
-#define PBCOPY_H
+#ifndef SAILCOPY_H
+#define SAILCOPY_H
 
 #include <QGuiApplication>
 #include <QStringList>
@@ -55,4 +55,4 @@ private:
     QString arg;
 };
 
-#endif // PBCOPY_H
+#endif // SAILCOPY_H
